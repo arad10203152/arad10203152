@@ -1,9 +1,8 @@
 # Hey there, I'm Arad! 👋
 ### 🚀 Linux Lover | 💻 Code Enthusiast | 🌟 Problem Solver
 <div align="center">
-  <img src="https://media.giphy.com/media/26mkhMYkitO7DoYms/giphy.gif" width="200" alt="SpongeBob and Patrick Waving">
+  <img src="https://media.giphy.com/media/26mkhMYkitO7DoYms/giphy.gif" width="250" alt="SpongeBob and Patrick Waving">
 </div>
-
 ---
 
 ### 👤 About Me
